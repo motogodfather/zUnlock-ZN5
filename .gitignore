@@ -12,6 +12,22 @@
 *.la
 *.a
 
+# Build artifacts
+Makefile
+.qmake.stash
+moc_*.cpp
+moc_predefs.h
+qrc_*.cpp
+ui_*.h
+*.qm
+
+# Executable
+zUnlock-ZN5
+
 # User files
 *.pro.user*
 *.directory
+
+# IDE
+.vscode/
+.codeartsdoer/

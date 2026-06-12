@@ -30,7 +30,8 @@ RESOURCES += \
 
 TRANSLATIONS += \
     l10n/zUnlock-ZN5_ru.ts \
-    l10n/zUnlock-ZN5_en.ts
+    l10n/zUnlock-ZN5_en.ts \
+    l10n/zUnlock-ZN5_zh_CN.ts
 
 OTHER_FILES += patch.map \
     zUnlock-ZN5.rc \
